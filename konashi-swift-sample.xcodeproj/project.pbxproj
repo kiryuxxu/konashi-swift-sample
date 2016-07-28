@@ -34,7 +34,7 @@
 
 /* Begin PBXFileReference section */
 		3EA701551BF3317F00428E6E /* CoreBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreBluetooth.framework; path = System/Library/Frameworks/CoreBluetooth.framework; sourceTree = SDKROOT; };
-		3EA701591BF3321B00428E6E /* Konashi */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Konashi; path = "/Users/wak/github/kiryuxxu/konashi-swift-sample/konashi-ios-sdk/Konashi"; sourceTree = "<absolute>"; };
+		3EA701591BF3321B00428E6E /* Konashi */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Konashi; path = "konashi-ios-sdk/Konashi"; sourceTree = "<group>"; };
 		3EA7016F1BF334E800428E6E /* CBPeripheral+Konashi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "CBPeripheral+Konashi.h"; path = "konashi-ios-sdk/Konashi/Konashi/Category/CoreBluetooth/CBPeripheral+Konashi.h"; sourceTree = "<group>"; };
 		3EA701701BF334E800428E6E /* CBPeripheral+Konashi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "CBPeripheral+Konashi.m"; path = "konashi-ios-sdk/Konashi/Konashi/Category/CoreBluetooth/CBPeripheral+Konashi.m"; sourceTree = "<group>"; };
 		3EA701711BF334E800428E6E /* CBService+Konashi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "CBService+Konashi.h"; path = "konashi-ios-sdk/Konashi/Konashi/Category/CoreBluetooth/CBService+Konashi.h"; sourceTree = "<group>"; };
